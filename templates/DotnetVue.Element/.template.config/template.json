@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "huangmingji<ming.j.huang@outlook.com>",
+    "classifications": [ "Web", "WebAPI", "SPA", "Vue", "ElementUI" ],
+    "identity": "DotnetElementUI",
+    "name": "ASP.NET Core with ElementUI",
+    "shortName": "element-ui",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "DotnetVue.Element",
+    "preferNameDirectory": true
+  }
